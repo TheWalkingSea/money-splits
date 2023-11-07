@@ -44,7 +44,7 @@ class Person:
 
 
 def main():
-    xlsx = pd.ExcelFile("tickytickys.xlsx")
+    xlsx = pd.ExcelFile(r"C:\Users\austi\OneDrive\Documents\profit\tickytickys.xlsx")
     df = pd.read_excel(xlsx, SHEETNAME)
     Person.df = df
     persons = [Person("Vishnu"), Person("Rohit"), Person("Austin")]
