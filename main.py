@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-SHEETNAME = "Adele 05-25"
+SHEETNAME = "Bad Bunny 05-24"
 
 
 

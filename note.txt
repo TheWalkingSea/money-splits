@@ -1,0 +1,1 @@
+Program that would determine the way in which money was split 3 ways between my group from selling ticketmaster codes. One big reason of this program was because anything that is considered personals (family) would be given 100% to that individual but if it was from a friend, it was split 3 ways between the other people.
